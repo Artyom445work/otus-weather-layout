@@ -1,10 +1,12 @@
-.interaction, .content {
-    display: flex;
-    gap: 40px;
-    flex-direction: row;
-    margin: auto;
+.interaction,
+.content {
+  display: flex;
+  gap: 40px;
+  flex-direction: row;
+  margin: auto;
 }
 
-.interaction__input, .interaction__button {
-    height: 30px;
+.interaction__input,
+.interaction__button {
+  height: 30px;
 }
